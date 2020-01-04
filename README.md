@@ -4,7 +4,7 @@ A security toolkit for Amazon S3
 
 > Another day, another leaky Amazon S3 bucket
 >
-> &mdash; The Register, 12 Jul 2017
+> &mdash; The Register, 4 Jan 2020
 
 Don’t be [the](https://www.theregister.co.uk/2017/07/12/14m_verizon_customers_details_out/)... [next](https://www.theregister.co.uk/2017/08/17/chicago_voter_leak/)... [big](https://www.theregister.co.uk/2017/09/05/twc_loses_4m_customer_records/)... [data](https://www.theregister.co.uk/2017/07/18/dow_jones_index_of_customers_not_prices_leaks_from_aws_repo/)... [leak](https://www.theregister.co.uk/2017/08/22/open_aws_s3_bucket_leaked_hotel_booking_service_data_says_kromtech/)
 
@@ -606,7 +606,6 @@ View the [changelog](https://github.com/ankane/s3tk/blob/master/CHANGELOG.md)
 
 Everyone is encouraged to help improve this project. Here are a few ways you can help:
 
-- [Report bugs](https://github.com/ankane/s3tk/issues)
-- Fix bugs and [submit pull requests](https://github.com/ankane/s3tk/pulls)
+- Fix bugs and [submit pull requests](https://github.com/alex14324/s3tk/pulls)
 - Write, clarify, or fix documentation
 - Suggest or add new features
